@@ -1,17 +1,17 @@
 {
   "name": "Hi, I'm Matt.",
-  "tagline": "markets, models, and the math underneath",
-  "bio": "",
-  "email": "",
+  "tagline": "markets, models, mathematics and machine learning",
+  "bio": "Iteration designer, computer science self-taught",
+  "archive_heading": "Writing",
+  "email": "matthew_ellison2@aol.com",
   "phone": "",
   "linkedin": "https://www.linkedin.com/in/mattellison10",
   "github": "",
-  "archive_heading": "Writing",
   "colors": {
-    "gradient_top": "#CFE2F0",
-    "gradient_mid": "#EDF4FA",
+    "gradient_top": "#cddef6",
+    "gradient_mid": "#ecf4fb",
     "gradient_bottom": "#FFFFFF",
-    "text": "#000000",
+    "text": "#863bd2",
     "muted": "#55606B",
     "link": "#1B4F72"
   }
